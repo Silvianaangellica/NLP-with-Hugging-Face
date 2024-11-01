@@ -15,15 +15,12 @@ Berisikan mengenai pipeline menggunakan library `Transformers` untuk keperluan p
 
 
 ## <p align="center">Bahasa yang digunakan : </p>
-<p align="center">
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</p>
+
 
 ## <p align="center">Tools yang digunakan : </p>
-<p align="center">
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</p>
 
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
