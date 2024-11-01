@@ -1,4 +1,6 @@
-# NLP With HuggingFace Transformers
+<p align="center">
+    <h1>NLP With HuggingFace Transformers</h1>
+</p>
 
 Berisikan mengenai pipeline menggunakan library `Transformers` untuk keperluan pemodelan, seperti:
 
@@ -11,19 +13,22 @@ Berisikan mengenai pipeline menggunakan library `Transformers` untuk keperluan p
 - Summarizer
 - Translated Text
 
-## Bahasa yang digunakan
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Tools yang Digunakan
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## <p align="center">Bahasa yang digunakan : </p>
+<p align="center">
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</p>
+
+## <p align="center">Tools yang digunakan : </p>
+<p align="center">
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</p>
 
 
 
 ---
 
-## Analisis Berdasarkan Kode.ipynb
-
-### Versi yang Disarankan
+## <p align="center">Analisis Berdasarkan Kode.ipynb</p>
 
 Menurut saya, **Zero-Shot-Classification** adalah salah satu versi terbaik karena memungkinkan pengguna untuk menginput teks dan label secara manual, tanpa harus memodifikasi kode awal. Setelah kode di-run, pengguna hanya perlu memasukkan teks dan label yang diinginkan.
 
